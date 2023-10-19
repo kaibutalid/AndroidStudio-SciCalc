@@ -1,0 +1,4 @@
+I only uploaded the res folder so it won't be a hassle looking for the files. Also, I only edited the files in this folder as well, specifically in the:
+layout folder - activity_main.XML is where the whole front-end code is
+drawable folder - square_button_background.XML and textview_outline.XML
+values folder - colors.XML and strings.XML
