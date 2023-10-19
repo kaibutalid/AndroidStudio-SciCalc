@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <!-- Background color of the text -->
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" /> <!-- Set your desired background color here -->
+        </shape>
+    </item>
+    <item>
+        <!-- Text with an outline -->
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/transparent" /> <!-- Transparent background -->
+            <stroke
+                android:width="1dp"
+                android:color="#ffb3c6"/>
+            re -->
+        </shape>
+    </item>
+</layer-list>
